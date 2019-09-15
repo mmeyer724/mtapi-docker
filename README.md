@@ -1,5 +1,5 @@
 # mtapi-docker
-Dockerized version of MTAPI
+Dockerized version of [MTAPI](https://github.com/jonthornton/MTAPI)
 
 # Quick start
 1. Clone this repo (**note:** the `--recursive` is *very* important!)
