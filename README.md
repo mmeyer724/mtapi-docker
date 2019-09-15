@@ -14,3 +14,6 @@ docker build .
 ```
 docker run -e MTA_KEY=<YOUR API KEY> -p 8080:8080 <IMAGE ID>
 ```
+
+# Configuration
+All settings can be configured using environment variables, see `settings_env.py` for a full list.
